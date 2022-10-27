@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amro076
 - 👀 I’m interested in new technology and IT.
-- 🌱 I’m currently learning to be a full stack developer.
-- 💞️ I’m looking to collaborate on some broject to practice and build skills.
+- 🌱 I’m a junior full stack developer.
+- 💞️ I’m looking to collaborate on some project to practice and build skills.
 - 📫 How to reach me, by emil on amro.ibrahim076@gmail.com.
 
 <!---
